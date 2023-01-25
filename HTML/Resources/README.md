@@ -4,7 +4,7 @@
 
 ### Including:
 #### 1. Tutorials
-#### 2. Activitys
+#### 2. Activities
 #### 3. Videos
 #### 4. Code
 #### 4. And everything covered in our meetings
