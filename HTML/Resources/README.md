@@ -7,4 +7,4 @@
 #### 2. Activities
 #### 3. Videos
 #### 4. Code
-#### 4. And everything covered in our meetings
+#### 5. And everything covered in our meetings
