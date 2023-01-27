@@ -9,5 +9,5 @@ The MDN Web Docs contain a wide variety of CSS resources. They cover everything 
 ### 3.[Free Code Camp ](https://www.freecodecamp.org/)
 A great resource to learn programming in general, Free Code Camp has many articles and videos on CSS. They also have a YouTube channel [here](https://www.youtube.com/c/Freecodecamp)
 
-### 4.[ CSS Gradient ](https://www.freecodecamp.org/)
+### 4.[CSS Gradient ](https://cssgradient.io/blog/)
 The CSS Gradient website can be used to explore how different gradients are written in CSS, but they also have a blog explaining the syntax behind gradients.
