@@ -10,3 +10,7 @@
     <li><ins>Underline</ins> the remaining numbers</li>
     <li>If a number fits into more than one category, try to make it do <em><strong>both</strong></em></li>
   </ul>
+  <h4>5. Create a form that has appropriate labels and takes in a user's name, birthday, email, and password</h4>
+  <h4>6. Make a table of 5 states where each one is assesed on a scale from 1-10 in 5 different categories (beauty, job availability, culture, median income, housing opputunites) data can be made up, and be sure to use table headings and a different row for each category</h4>
+  <h4>7. Generate an HTML page with a header, nav, main, and footer that has the h2 tag "Article Title:" inside of 3 different articles within the main tag, using 1 line of emmet shortcuts</h4>
+  <h4>8. Try to recreate your HTML page from activity 7 using only Div and Span tags with class names corresonding to what they are (ex. div class="header")</h4>
