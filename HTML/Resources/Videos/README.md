@@ -8,4 +8,4 @@
 <h3>6. <a href="https://www.youtube.com/watch?v=V8vizNQKtx0">HTML Shortcuts(Emmet)</a></h3>
 <h3>7. <a href="https://www.youtube.com/watch?v=6RE5vCsPOS4">Good Tables Tutorial</a></h3>
 <h3>8. <a href="https://www.youtube.com/watch?v=2O8pkybH6po">HTML Forms In 8 Minutes</a></h3>
-<h3>9. <a href="https://www.youtube.com/watch?v=UBWl37Rr9_c>Div vs Span Tags</a></h3>
+<h3>9. <a href="https://www.youtube.com/watch?v=UBWl37Rr9_c">Div vs Span Tags</a></h3>
