@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Document</title>
+</head>
+<body>
+  <form action="#" method="post">
+    <fieldset>
+      <legend>Sign Up Form</legend>
+      <fieldset>
+        <legend>Basic Information</legend>
+        <label for="name">Name: </label>
+        <input type="text" id="name">
+        <br>
+        <br>
+        <label for="email">Email: </label>
+        <input type="email" id="email">
+        <br>
+        <br>
+        <label for="password">Password: </label>
+        <input type="password" id="password">
+        <br>
+        <br>
+        <label for="confirm-password">Confirm Password: </label>
+        <input type="password" id="confirm-password">
+        <br>
+        <br>
+        <label for="phone-number">Phone Number:</label>
+        <input type="tel" id="phone-number" placeholder="239-238-8912">
+        <br>
+        <br>
+        <label for="date-of-birth">Date of Birth:</label>
+        <input type="date" id="date-of-birth">
+      </fieldset>
+      <p>Please select the type of account you want to create:</p>
+      <label for="student">Student</label>
+      <input type="radio" name="account-type" id="student">
+      <label for="techer">Teacher</label>
+      <input type="radio" name="account-type" id="teacher">
+      <label for="parent">Parent</label>
+      <input type="radio" name="account-type" id="parent">
+      <br>
+      <br>
+      <label for="favorite-subject">What is your favorite subject?</label>
+      <select name="favorite-subject" id="favorite-subject">
+        <option value="math">Math</option>
+        <option value="reading">Reading</option>
+        <option value="history">History</option>
+        <option value="science">Science</option>
+        <option value="computer-science">Computer Science</option>
+        <option value="foreign-language">Foreign Language</option>
+      </select>
+      <br>
+      <br>
+      <label for="terms-and-conditions">I agree to the terms and conditons</label>
+      <input type="checkbox" id="terms-and-conditions">
+      <br>
+      <br>
+      <label for="privacy-policy">I agree to the privacy policy</label>
+      <input type="checkbox" id="privacy-policy">
+      <br>
+      <br>
+      <input type="reset" value="Reset Form">
+      <input type="submit" value="Submit Form">
+    </fieldset>
+  </form>
+  <table>
+    <caption>Student Scores</caption>
+    <tr>
+      <td>&nbsp;</td>
+      <th>Connor</th>
+      <th>Jack</th>
+      <th>Jill</th>
+      <th>Susan</th>
+    </tr>
+    <tr>
+      <th>Math</th>
+      <td rowspan="4">93</td>
+      <td>86</td>
+      <td>97</td>
+      <td>70</td>
+    </tr>
+    <tr>
+      <th>Reading</th>
+      <td>86</td>
+      <td>97</td>
+      <td>70</td>
+    </tr>
+    <tr>
+      <th>History</th>
+      <td colspan="2">86</td>
+      <td>70</td>
+    </tr>
+    <tr>
+      <th>Science</th>
+      <td>86</td>
+      <td>97</td>
+      <td>70</td>
+    </tr>
+  </table>
+</body>
+</html>
