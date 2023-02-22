@@ -1,0 +1,45 @@
+nav {
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ background-color: brown;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  grid-template-rows: 100px auto 100px;
+  grid-auto-rows: 100px;
+  gap: 10px;
+}
+
+header {
+  outline: 2px black solid;
+  grid-area: 1 / 1 / 2 / 3;
+}
+
+aside {
+  outline: 2px red solid;
+  grid-area: 2 / 1 / 3 / 2;
+}
+
+article {
+  outline: 2px green solid;
+  grid-area: 2 / 2 /3 /3;
+  padding: 20px;
+}
+
+footer {
+  outline: 2px purple solid;
+  grid-area: 3 / 1 / 4 / 3;
+}
+
+@media (max-width: 500px) {
+  aside {
+    display: none;
+  }
+  article {
+    grid-area: 2 / 1 / 3 / 3;
+    outline: 2px yellow solid;
+  }
+}
