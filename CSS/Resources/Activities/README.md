@@ -10,3 +10,7 @@
     <li><ins>Underline</ins> the remaining numbers</li>
     <li>If a number fits into more than one category, try to make it do <em><strong>both</strong></em></li>
   </ul>
+  <h4>5. Read through <a href="https://codyloyd.com/2021/percentages/">this article</a> about why you should avoid using percentages in CSS</h4>
+  <h4>6. Complete <a href="https://flukeout.github.io/">CSS Diner</a> to futher build your knowledge of CSS selectors.</h4>
+  <h4>7. Use CSS Grid and media queries to recreate this <a href="https://user-images.githubusercontent.com/110360785/220495170-505a9eaf-5328-4790-a26a-539724d605b1.png">basic design</a> (don't worry about the text)</h4>
+  <h4>8. Fill in and style the header from the previous activity with different links (Home, Product Page, Cart, Account) that are arranged using Flexbox</h4>
