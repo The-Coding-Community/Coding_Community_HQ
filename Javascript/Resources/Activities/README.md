@@ -11,3 +11,7 @@
   </ul>
   <h4>3. Log a birthday message to console when given a name and an age. For example, "Happy 31st birthday John, let's celebrate." Make sure to have variables for both the name and age of the person, don't just write out the message in it's entirety.</h4>  
   <h4>4. Modify #3 to include two different messages depending on if the person is over or under 18. Do this by using conditional statements with age set as the condition. 
+  <h4>5. Create an array and a corresponding function that adds all of the numbers inside of the array, no matter how long the array is</h4>
+  <h4>6. Build upon greeting system from the first JS meeting by using an array of first names, last names, and birth years. Greet a total of 5 people.</h4>
+  <h4>7. Make a "while" loop that will print out the message "Hello World" 46 times</h4>
+  <h4>8. Continue your exploration of JS by searching for the term "DOM Manipulation" and following along with a few of the resulting tutorials.</h4>
