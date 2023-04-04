@@ -13,3 +13,5 @@
 ### 4. [The Modern JavaScript Tutorial](https://javascript.info/)
 ### - A complete, online course covering anything and everything related to JavaScript. Start with the fundementals and work your way towards becoming an expert. They have articles on every bit of relevant information organized into smaller steps. Consider it an all-in-one resource. 
 
+### 5. [Chrome Dev Tools Official Docs](https://developer.chrome.com/docs/devtools/)
+### - Official documents providing information about the chrome developer tools. Learn how to debug, optimize, and perfect your website with these free resources. 
